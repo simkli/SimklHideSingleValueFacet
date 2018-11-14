@@ -14,6 +14,7 @@ In the root of your Shopware Installation run
 ```
 $ cd custom/plugins
 $ git clone https://github.com/simkli/SimklHideSingleValueFacet.git
+$ ../../bin/console sw:plugin:install refresh
 $ ../../bin/console sw:plugin:install --activate SimklHideSingleValueFacet
 $ ../../bin/console sw:cache:clear
 ```
