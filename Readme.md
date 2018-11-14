@@ -5,9 +5,9 @@ If one facet has only one value to choose from it will be hidden.
 ## Installation
 ### Via Plugin Manager
 1. Download the latest release as .zip file from here: 
-https://github.com/simkli/SimklHideSingleValueFacet/releases
+[Releases](https://github.com/simkli/SimklHideSingleValueFacet/releases)
 
-2. Refer to this guide:
+2. Refer to this guide (only the last step): [Manually installing plugins](https://en-community.shopware.com/Licensing-and-installing-a-licensed-plugin-_detail_1638.html#Manually_installing_plugins)
 
 ### Via Git
 In the root of your Shopware Installation run
